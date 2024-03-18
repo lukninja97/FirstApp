@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:maxLength="4"
-        android:hint="Diite seu ano de nacimento"/>
+        android:hint="Digite seu ano de nacimento"/>
 
     <Button
         android:id="@+id/btnEnviar"
